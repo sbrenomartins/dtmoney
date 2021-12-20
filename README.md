@@ -1,46 +1,91 @@
-# Getting Started with Create React App
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
 
-## Available Scripts
+  <h3 align="center">dtmoney</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    Webapp for control your finances
+    <br />
+    <a href="https://github.com/sbrenomartins/dtmoney"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/sbrenomartins/dtmoney">View Demo</a>
+    ·
+    <a href="https://github.com/sbrenomartins/dtmoney/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/sbrenomartins/dtmoney/issues">Request Feature</a>
+  </p>
+  
+  <p align="center">
+    <img src="./images/dtmoney01.png" />
+    <img src="./images/dtmoney02.png" />
+  </p>
+</p>
 
-### `yarn start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents ⚙
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-### `yarn test`
+<!-- ABOUT THE PROJECT -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# About The Project 🔥
 
-### `yarn build`
+## Built With 👷‍♀️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://pt-br.reactjs.org/)
+- [styled-components](https://www.styled-components.com/)
+- [miragejs](https://miragejs.com/)
+- [Context API](https://en.reactjs.org/docs/context.html)
+- [Typescript](https://www.typescriptlang.org/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started 🚀
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `yarn eject`
+- You need to have Node.js and NPM (or Yarn) installed.
+- After clone the project just run: npm install or yarn, for install the dependencies.
+- After install the dependencies, just run: npm start or yarn start for initialize the server.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- ROADMAP -->
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Roadmap 🏁
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+See the [open issues](https://github.com/sbrenomartins/dtmoney/issues) for a list of proposed features (and known issues).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- CONTRIBUTING -->
 
-## Learn More
+## Contributing 🙋‍♀️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- CONTACT -->
+
+## Contact 📱
+
+Breno Martins - sbrenomartins.github.io - sbrenomartins@gmail.com
+
+Project Link: [https://github.com/sbrenomartins/dtmoney](https://github.com/sbrenomartins/dtmoney)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/breno-m-silva
